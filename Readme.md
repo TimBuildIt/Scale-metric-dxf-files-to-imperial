@@ -10,17 +10,17 @@ Download and run python_xxx_.exe
 MAKE SURE TO CHECK "Add python.ext to PATH.
 Click install now.
 
-![install python 1](images/install python 1.png)
+![install python 1](https://github.com/TimBuildIt/Scale-metric-dxf-files-to-imperial/blob/master/images/install%20python%201.png)
 
 Should see Setup was Sucessful. Close window.
 
-![install python 2](images/install python 2.png)
+![install python 2](https://github.com/TimBuildIt/Scale-metric-dxf-files-to-imperial/blob/master/images/install%20python%202.png)
 
 
 Open Command Prompt win+r cmd or windows key, type cmd and click on command prompt.
 
-![cmd win r](images/command prompt win r.png)
-![cmd win command prompt](images/windows command prompt.png)
+![cmd win r](https://github.com/TimBuildIt/Scale-metric-dxf-files-to-imperial/blob/master/images/command%20prompt%20win%20r.png)
+![cmd win command prompt](https://github.com/TimBuildIt/Scale-metric-dxf-files-to-imperial/blob/master/images/windows%20command%20prompt.png)
 
 
 Type or copy and right click in command prompt to paste, then hit enter to run. 
@@ -43,8 +43,10 @@ Thus ends the installation. To use the script paste the "scale_metric_dxf_files_
 
 Alternatively once you paste the file into a folder, you can run it by clicking on the address bar, typing cmd and pressing enter. This will bring a command prompt window up in the folder you were in. You can then run the file by typing 'scale_metric_dxf_files_to_imperial.py' and pressing enter. If you start typing you can press tab and it will autofill the rest of the name. 
 
-![alt run option](images/alternative run option.png)
+![alt run option](https://github.com/TimBuildIt/Scale-metric-dxf-files-to-imperial/blob/master/images/alternative%20run%20option.png)
 
 
 Enjoy!
+
+
 
