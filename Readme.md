@@ -55,3 +55,13 @@ Enjoy!
 
 
 
+
+
+
+v1.2 Add support for z scaling. Add text file log.
+
+v1.1 Fix some kind of vertex issue
+
+v1 Basic file conversion. log in terminal
+
+
